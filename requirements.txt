@@ -6,4 +6,3 @@ pillow==10.0.0
 matplotlib==3.7.2
 openai==1.6.1
 scikit-learn==1.2.2
-requests==2.31.0
